@@ -1,0 +1,33 @@
+_repo: The-Diary-and-Letters-of-Madame-D-Arblay-Volume-3_6457
+creator:
+  author:
+    agent_name: Burney, Fanny
+    aliases:
+    - D'Arblay, Frances Burney
+    - Burney, Frances
+    birthdate: 1752
+    deathdate: 1840
+    gutenberg_agent_id: '2010'
+    url: http://www.gutenberg.org/2009/agents/2010
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Burney
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Court and courtiers -- History -- 18th century'
+- !lcsh 'Burney, Fanny, 1752-1840 -- Correspondence'
+- !lcc 'PR'
+- !lcsh 'Burney, Fanny, 1752-1840 -- Diaries'
+- !lcsh 'Novelists, English -- 18th century -- Correspondence'
+- !lcsh 'Great Britain -- Court and courtiers -- History -- 19th century'
+- !lcsh 'Novelists, English -- 19th century -- Diaries'
+- !lcsh 'Novelists, English -- 18th century -- Diaries'
+- !lcsh 'Novelists, English -- 19th century -- Correspondence'
+title: The Diary and Letters of Madame D'Arblay — Volume 3
+url: http://www.gutenberg.org/ebooks/6457
